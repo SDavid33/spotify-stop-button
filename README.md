@@ -4,8 +4,6 @@ A small Spicetify extension that adds a real-looking Stop button next to Spotify
 
 The button pauses playback and seeks the current track back to `0:00`, which is the closest practical "stop" behavior available in Spotify's desktop client.
 
-![Stop button screenshot](screenshots/stop-button.png)
-
 ## Features
 
 - Adds a Stop button directly to the right of the Play/Pause button
@@ -54,11 +52,8 @@ spicetify apply
 
 ## Screenshot
 
-Put the repository screenshot here:
+![Stop button screenshot](screenshots/stop-button.png)
 
-```text
-screenshots/stop-button.png
-```
 
 The `screenshots` folder includes a placeholder so GitHub keeps the folder before an image is added.
 
