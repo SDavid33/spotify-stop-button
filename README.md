@@ -60,3 +60,7 @@ The `screenshots` folder includes a placeholder so GitHub keeps the folder befor
 ## License
 
 MIT
+
+## Sponsor
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N0XO52O)
